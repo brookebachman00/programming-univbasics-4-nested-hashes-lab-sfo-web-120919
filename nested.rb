@@ -51,7 +51,7 @@ def dennis_ritchies_language
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["Unix", C", ]
+          :languages => ["Unix", "C"]
         }
      }
 end
